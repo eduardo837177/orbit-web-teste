@@ -236,7 +236,7 @@ input, select, textarea {
     width: 100%;
     padding: 12px;
     background: rgba(0, 0, 0, 0.4);
-    border: 1px solid rgba(45, 212, 191, 0.3);
+    border: 1px solid rgba(39, 184, 164, 0.3);
     border-radius: 28px;
     color: white;
 }
